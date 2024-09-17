@@ -61,7 +61,7 @@ def negativeToZero() -> float:
             print('naum pode')
 
 
-def commonElemments( ):
+def commonElements( ):
     itens1 = [str(valor.strip()) for valor in input('Insira primeira lista separado por virgula: ').split(',')]
     itens2 = [str(valor.strip()) for valor in input('Insira segunda lista separado por virgula: ').split(',')]
     itens_repetidos = []
