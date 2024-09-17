@@ -1,5 +1,5 @@
 from codigos import reversedOrder, sumNumbers, firstTwoSum,\
-MaxMinNum, AmountoffEvenOdd, negativeToZero, commonElemments, \
+MaxMinNum, AmountoffEvenOdd, negativeToZero, commonElements, \
 removeRepeatedElements, crescentOrder, averageElement
 
 
